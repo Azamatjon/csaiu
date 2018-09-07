@@ -1,4 +1,4 @@
-# Computer Science department project 
+# CSAiu
 The project of 3rd grade students of AIU.<br><br> 
 <h2>Students list:</h2> 
 <ul>
