@@ -1,6 +1,6 @@
 # csaiu
 The project of 3rd grade students of AIU.
 Students list:
-Akhunzhanov Azamatzhon - teamleader
+Akhunzhanov Azamatzhon - teamleader <br>
 Zarlyk ZHusubaliev- html, css designer 
 Changylov Daniyar - mobile application
