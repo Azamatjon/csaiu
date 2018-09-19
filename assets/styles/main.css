@@ -3023,7 +3023,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar-trans .navbar-logo {
-  content: url(../images/logo-light.png);
+  content: url(../images/logo.png);
 }
 
 .navbar-trans .navbar-logo-dark {
@@ -3072,14 +3072,23 @@ fieldset[disabled] .form-control:hover {
   min-height: 50px;
 }
 
+
+.navbar-small .navbar-logo {
+  height: 44px;
+}
+
+
+
 .navbar-small .navbar-header {
   margin-top: 0;
   padding: 0;
 }
 
 .navbar-small .navbar-header .navbar-brand {
-  padding: 9px 0;
+  padding: 3px 0;
 }
+
+
 
 .navbar-small .navbar-nav {
   margin-top: 0;
