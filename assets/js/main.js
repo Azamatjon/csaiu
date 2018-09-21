@@ -129,7 +129,9 @@
 
 	} // initNavbar
 
-
+$("[data-href]").click(function () {
+	window.location=$(this).data("href");
+})
 
 /* --------------------------------------------------
 	Scroll Nav
