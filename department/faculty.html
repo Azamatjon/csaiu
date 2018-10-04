@@ -236,7 +236,11 @@
                   <div class="t-info">
                     <h4 class="t-name">Sanzhar <br> Erdolatov</h4>
                     <span class="t-role">Lecturer</span>
+
                     <button class="btn btn-small" type="button" data-href="faculty/s.erdolatov.html">More
+
+                    <button class="btn btn-small" data-href="/example.html">More
+
                     </button>
                   </div>
 
@@ -465,6 +469,13 @@ Working at International Ataturk-Alatoo university for 2 years</p>
 
         <!-- ========== Scripts ========== -->
 
+        <script>
+            $( document ).ready(function() {
+              $('[data-href]').click(function(){
+                window.location = $(this).data('href');
+              });
+            });
+        </script>
         <script src="../assets/js/vendor/jquery-2.1.4.min.js"></script>
         <script src="../assets/js/vendor/google-fonts.js"></script>
         <script src="../assets/js/vendor/jquery.easing.js"></script>
