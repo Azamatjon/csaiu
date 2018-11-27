@@ -1,17 +1,17 @@
-# Computer Science department project
-The project of 3rd grade students of AIU.<br>
-Project Demo link https://azamatjon.github.io/csaiu
-<br><br>
+# Computer Science department project 
+Redesign the existing Computer Science department's website, and creating a application for Android. The mini project's purpose is to teach students and practice Git VCS. Teach how to work and collaborate on the project using the VCS Git.<br><br> 
 <h2>Students list:</h2> 
 <ul>
-    <li>Akhunzhanov Azamatzhon - teamleader, content manager</li> 
-    <li>Zarlyk ZHusubaliev- content manager, css designer</li> 
-    <li>Changylov Daniyar - mobile application - https://github.com/Daniyar111/ComAiu.git</li> 
+  <li>Akhunzhanov Azamatzhon - teamleader</li> 
+  <li>Zarlyk ZHusubaliev- html, css designer</li> 
+  <li>Changylov Daniyar - mobile application developer</li> 
 </ul>
 
-
-
-<h3>Root Of HTML pages</h3>
+<br>
+Our Mobile application:
+<h3>ComAiu</h3>
+https://github.com/Daniyar111/ComAiu.git
+<h3>Root Of HTML pages of web sites</h3>
 <pre>
 │   404.html
 │   index.html
@@ -75,4 +75,37 @@ Project Demo link https://azamatjon.github.io/csaiu
             supervisor-topic.html
             timing.html
             topic.html
+</pre>
+
+<h3>Screens tree of mobile application</h3>
+<pre>
+│   Main Screen
+│   Department Stuff
+│   Labs
+│   Contact us
+│   Exit
+│
+├───News
+│       Details
+│
+├───Timetable
+│       All days fragments
+│       Change course
+│
+├───Exams
+│       Midterm
+│       Final
+│
+├───Bachelor program
+│       Courses
+│       Exam rules
+│       Admission
+│
+├───Master Degree
+│       Overview
+│       Course
+│       Graduate research
+│       Admission
+│
+└───Academic calendar
 </pre>
