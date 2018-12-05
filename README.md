@@ -7,6 +7,9 @@ Redesign the existing Computer Science department's website, and creating a appl
   <li>Changylov Daniyar - mobile application developer</li> 
 </ul>
 
+For website: HTML5, CSS3, JS, PHP;
+For android: Java, XML;
+
 <br>
 Our Mobile application:
 <h3>ComAiu</h3>
